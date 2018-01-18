@@ -20,10 +20,10 @@ You could also download the `html` version of my project from [here](https://git
 ## Built With
 
 * [Anaconda](https://www.anaconda.com/download/) - Distribution pre-installed with Python and its associated packages
- * [Python 3.6.3](https://www.python.org/downloads/) 
- * [Pandas](http://pandas.pydata.org/pandas-docs/stable/install.html) 
- * [Jupyter 5.1.0](http://jupyter.org/install.html)
- * [Matplotlib 2.1.1](https://matplotlib.org/users/installing.html#installing-an-official-release)
+  * [Python 3.6.3](https://www.python.org/downloads/) 
+  * [Pandas](http://pandas.pydata.org/pandas-docs/stable/install.html) 
+  * [Jupyter 5.1.0](http://jupyter.org/install.html)
+  * [Matplotlib 2.1.1](https://matplotlib.org/users/installing.html#installing-an-official-release)
 * [Plotly](https://plot.ly/) 
 * [TensorFlow 1.4.0](https://github.com/lakshayg/tensorflow-build/raw/master/tensorflow-1.4.0-cp36-cp36m-macosx_10_12_x86_64.whl)
 * [Keras 2.1.3](https://keras.io/#installation)
