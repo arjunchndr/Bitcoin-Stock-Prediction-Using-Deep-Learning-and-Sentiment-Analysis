@@ -1,7 +1,7 @@
 # Bitcoin Stock Market Prediction and Modeling using Deep Learning and Sentiment Analysis
 
 This project presents a comparison and selection of the best model from 2 deep machine learning
-solutions to predict the closing price of the Bitcoin cryptocurrency stock.
+models to predict the closing price of the Bitcoin cryptocurrency stock.
 >My first framework is a __`Recurrent Neural Network`__ trained on 3 popular stock market indicators and past prices as key data points to find an optimal technique for cryptocurrency stock market prediction.
 
 >My second framework is a sequential model, trained on the sentiment of the public company news history and past prices as key data points, consisting of a single __`Long Short-Term Memory (LSTM)`__ layer to generate a prediction vector for the whole input sequence and 1 Linear Dense Layer to aggregate the data into a single value.
